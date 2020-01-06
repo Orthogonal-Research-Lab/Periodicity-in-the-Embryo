@@ -21,11 +21,13 @@ How to build a 512-cell embryo (in space):
 
 ### Calculating a sphere:
 
-r = -15:0.0477:15; (for a spheroid 30 units long/wide/tall)
-t = -pi:0.01:pi;
-s = -2pi:0.01:2pi;
-x = r * cos(s) * sin(t)
-y = r * sin(s) * sin(t)
+r = -15:0.0477:15; (for a spheroid 30 units long/wide/tall). 
+t = -pi:0.005:pi;. 
+s = -2pi:0.01:2pi;. 
+// for sparse sampling, interval eill have tk be changed proportionally for r, t, and s.  
+
+x = r * cos(s) * sin(t). 
+y = r * sin(s) * sin(t). 
 z = r * cos(t)
 
 where r = radius (diamater of spheroid/2), t = height of angle (-pi to 0 to pi), and s = angle around z-axis (-2pi to 0 to 2pi). t is also known as $/phi$, and s is also known as $/theta$. With this code, you end up with positions for 629 cells. Sample according to code.
