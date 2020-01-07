@@ -21,9 +21,9 @@ How to build a 512-cell embryo (in space):
 
 ### Calculating a sphere:
 
-r = -15:0.0477:15; (for a spheroid 30 units long/wide/tall)  
-t = -pi:0.005:pi;  
-s = -2pi:0.01:2pi;  
+r = -15:0.02387:15; (for a spheroid 30 units long/wide/tall)  
+t = -%pi:0.005:%pi;  
+s = -2*(%pi):0.01:2*(%pi);  
 // for sparse sampling, interval will have to be changed proportionally for _r_, _t_, and _s_  
     
 x = r * cos(s) * sin(t)  
