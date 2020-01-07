@@ -34,5 +34,5 @@ z = r .* cos(t)
 where _r_ = radius (diamater of spheroid/2), _t_ = height of angle (-pi to 0 to pi), and _s_ = angle around z-axis (-2$\pi$ to 0 to 2$\pi$). t is also known as $\phi$, and _s_ is also known as $\theta$. With this code, you end up with positions for 629 cells. Sample according to code.
 
 plot3D(x,y,z,'o');   
-// this produced a curved manifold. Not quite what we want.  
+// this produced a curved manifold. Not quite what we want. Images are in Figures, this directory.
 
