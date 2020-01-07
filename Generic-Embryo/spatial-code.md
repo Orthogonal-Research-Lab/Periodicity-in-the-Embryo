@@ -24,10 +24,10 @@ How to build a 512-cell embryo (in space):
 r = -15:0.0477:15; (for a spheroid 30 units long/wide/tall). 
 t = -pi:0.005:pi;. 
 s = -2pi:0.01:2pi;. 
-// for sparse sampling, interval eill have tk be changed proportionally for r, t, and s.  
+// for sparse sampling, interval will have to be changed proportionally for _r_, _t_, and _s_.  
 
 x = r * cos(s) * sin(t). 
 y = r * sin(s) * sin(t). 
 z = r * cos(t)
 
-where r = radius (diamater of spheroid/2), t = height of angle (-pi to 0 to pi), and s = angle around z-axis (-2pi to 0 to 2pi). t is also known as $/phi$, and s is also known as $/theta$. With this code, you end up with positions for 629 cells. Sample according to code.
+where _r_ = radius (diamater of spheroid/2), _t_ = height of angle (-pi to 0 to pi), and _s_ = angle around z-axis (-2$$\pi$$ to 0 to 2$$\pi$$). t is also known as $$\phi$$, and _s_ is also known as $$\theta$$. With this code, you end up with positions for 629 cells. Sample according to code.
