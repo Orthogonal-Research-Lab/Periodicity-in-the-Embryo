@@ -30,4 +30,4 @@ x = r * cos(s) * sin(t).
 y = r * sin(s) * sin(t). 
 z = r * cos(t)
 
-where _r_ = radius (diamater of spheroid/2), _t_ = height of angle (-pi to 0 to pi), and _s_ = angle around z-axis (-2$$\pi$$ to 0 to 2$$\pi$$). t is also known as $$\phi$$, and _s_ is also known as $$\theta$$. With this code, you end up with positions for 629 cells. Sample according to code.
+where _r_ = radius (diamater of spheroid/2), _t_ = height of angle (-pi to 0 to pi), and _s_ = angle around z-axis (-2$\pi$ to 0 to 2$\pi$). t is also known as $\phi$, and _s_ is also known as $\theta$. With this code, you end up with positions for 629 cells. Sample according to code.
