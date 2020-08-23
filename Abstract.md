@@ -23,6 +23,12 @@ Example of an isometric graph with two subgraphs (red and yellow). Click to enla
 </p>
 
 
+### Caenorhabditis elegans
+<p align="center">
+  <img width="565" height="348" src="https://github.com/Orthogonal-Research-Lab/Periodicity-in-the-Embryo/blob/master/Graphs/C%20elegans-differentiation-intervals/C-elegans-interval-btwn-differentiations.png"><BR>
+Cell divisions over first 206 minutes of Zebrafish embryogenesis. Click to enlarge.
+</p>
+
 ### Zebrafish
 
 <p align="center">
@@ -36,6 +42,7 @@ Interval size of peaks for first 206 minutes of Zebrafish embryogenesis. Click t
 </p>
   
 Considering the cell divisions for the first period of Zebrafish embryogenesis, we conduct an interval analysis for each oscillation of the data. This yields three interval groups: the greatest number of oscillations occurs at a period of 2-5 minutes, while a smaller number of oscillations occur with periods from 16-19. There is also a longer 22 minute interval between oscillations.
+
 
 ### References:
 [1] Simpson, G.G. (1944). Tempo and Mode in Evolution. Columbia University Press, New York.  
