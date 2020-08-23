@@ -31,9 +31,11 @@ Cell divisions over first 206 minutes of Zebrafish embryogenesis. Click to enlar
 </p>
 
 <p align="center">
-  <img width="337" height="201" src="https://github.com/Orthogonal-Research-Lab/Periodicity-in-the-Embryo/blob/master/Graphs/Zebrafish-first-206-minutes/interval-size.png"><BR>
+  <img width="505" height="302" src="https://github.com/Orthogonal-Research-Lab/Periodicity-in-the-Embryo/blob/master/Graphs/Zebrafish-first-206-minutes/interval-size.png"><BR>
 Interval size of peaks for first 206 minutes of Zebrafish embryogenesis. Click to enlarge.
 </p>
+  
+Considering the cell divisions for the first period of Zebrafish embryogenesis, we conduct an interval analysis for each oscillation of the data. This yields three interval groups: the greatest number of oscillations occurs at a period of 2-5 minutes, while a smaller number of oscillations occur with periods from 16-19. There is also a longer 22 minute interval between oscillations.
 
 ### References:
 [1] Simpson, G.G. (1944). Tempo and Mode in Evolution. Columbia University Press, New York.  
