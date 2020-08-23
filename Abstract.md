@@ -23,10 +23,10 @@ Example of an isometric graph with two subgraphs (red and yellow). Click to enla
 </p>
 
 
-### Caenorhabditis elegans
+### *Caenorhabditis elegans*
 <p align="center">
   <img width="565" height="348" src="https://github.com/Orthogonal-Research-Lab/Periodicity-in-the-Embryo/blob/master/Graphs/C%20elegans-differentiation-intervals/C-elegans-interval-btwn-differentiations.png"><BR>
-Cell divisions over first 206 minutes of Zebrafish embryogenesis. Click to enlarge.
+Interval between cell differentiations across both embryonic and post-embryonic development in _C. elegans_. Click to enlarge.
 </p>
 
 ### Zebrafish
