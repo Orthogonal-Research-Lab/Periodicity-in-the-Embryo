@@ -26,12 +26,12 @@ Example of an isometric graph with two subgraphs (red and yellow). Click to enla
 ### Zebrafish
 
 <p align="center">
-  <img src="https://github.com/Orthogonal-Research-Lab/Periodicity-in-the-Embryo/blob/master/Graphs/Zebrafish-first-206-minutes/206-minutes-divisions.png"><BR>
+  <img width="565" height="348" src="https://github.com/Orthogonal-Research-Lab/Periodicity-in-the-Embryo/blob/master/Graphs/Zebrafish-first-206-minutes/206-minutes-divisions.png"><BR>
 Cell divisions over first 206 minutes of Zebrafish embryogenesis. Click to enlarge.
 </p>
 
 <p align="center">
-  <img src="https://github.com/Orthogonal-Research-Lab/Periodicity-in-the-Embryo/blob/master/Graphs/Zebrafish-first-206-minutes/interval-size.png"><BR>
+  <img width="337" height="201" src="https://github.com/Orthogonal-Research-Lab/Periodicity-in-the-Embryo/blob/master/Graphs/Zebrafish-first-206-minutes/interval-size.png"><BR>
 Interval size of peaks for first 206 minutes of Zebrafish embryogenesis. Click to enlarge.
 </p>
 
