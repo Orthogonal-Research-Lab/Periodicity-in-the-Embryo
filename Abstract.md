@@ -1,5 +1,5 @@
 ## Periodicity in the embryo: emergence of order in space, diffusion of order in time.  
-### Bradly Alicea and Richard Gordon  
+### DevoWorm Group (contributors TBA)
 
 While the case for the effects of "tempo and mode" [1] have been made for the evolutionary process, a similar relationship between phenotypic change, time, and space may also exist in development. One obvious answer to this question is to examine the expression and sequence variation of genes associated with cell cycle and developmental patterning [2]. However, there is a potentially more compelling top-down explanation. We will use two model organisms to demonstrate how periodicity becomes less synchronized over developmental time and space. In the case of the nematode Caenorhabditis elegans, a comparison of embryogenetic and postembryonic cells (developmental and terminally-differentiated cell birth times acquired from [3]) reveals two general patterns. For the Zebrafish (Danio rerio), comparisons within and between embryogenetic stages based on measurements of cell nuclei in the animal hemisphere [4] reveal patterns at multiple scales.  
 
