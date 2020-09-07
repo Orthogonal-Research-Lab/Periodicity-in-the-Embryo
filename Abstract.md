@@ -14,7 +14,7 @@ Finally, we predict that the emergence and subsequent changes in spatiotemporal 
 
 <p align="center">
   <img width="750" height="350" src="https://user-images.githubusercontent.com/38323286/52240545-b9dd3c00-2896-11e9-9c08-7bf4cca69fd4.png"><BR>
-Cell births in Zebrafish embryos during early emrbyogenesis. Zygote stage (red), Cleavage stage (unshaded). Click to enlarge.
+Cell births in Zebrafish embryos during early embryogenesis. Zygote stage (red), Cleavage stage (unshaded). Click to enlarge.
 </p>
 
 <p align="center">
