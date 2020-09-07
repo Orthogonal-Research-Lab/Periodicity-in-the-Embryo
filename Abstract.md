@@ -9,7 +9,7 @@ Finally, we predict that the emergence and subsequent changes in spatiotemporal 
 
 <p align="center">
   <img width="750" height="350" src="https://user-images.githubusercontent.com/38323286/52240654-0d4f8a00-2897-11e9-8cd1-b25780787a5e.png"><BR>
-Developmental cell births in the nematode _C. elegans_. Developmental cells (orange), terminally differentiated cells (blue). Click to enlarge.
+  Developmental cell births in the nematode <i>C. elegans</i>. Developmental cells (orange), terminally differentiated cells (blue). Click to enlarge.
 </p>
 
 <p align="center">
@@ -38,31 +38,34 @@ Cell divisions over first 206 minutes of Zebrafish embryogenesis. Click to enlar
 
 <p align="center">
   <img width="505" height="302" src="https://github.com/Orthogonal-Research-Lab/Periodicity-in-the-Embryo/blob/master/Graphs/Zebrafish-first-206-minutes/interval-size.png"><BR>
-Interval size of peaks for first 206 minutes of Zebrafish embryogenesis. Click to enlarge.
+Interval size of peaks for first 206 minutes of Zebrafish embryogenesis (roughly corresponding to the cleavage stage). Click to enlarge.
 </p>
   
-Considering the cell divisions for the first period of Zebrafish embryogenesis, we conduct an interval analysis for each oscillation of the data. This yields three interval groups: the greatest number of oscillations occurs at a period of 2-5 minutes, while a smaller number of oscillations occur with periods from 16-19. There is also a longer 22 minute interval between oscillations.
+Considering the cell divisions for the first period of Zebrafish embryogenesis, we conduct an interval analysis for each oscillation of the data. For time points corresponding to the cleavage stage of embryogenesis [12], Tthis yields three interval groups: the greatest number of oscillations occurs at a period of 2-5 minutes, while a smaller number of oscillations occur with periods from 16-19. There is also a longer 22 minute interval between oscillations.
 
 
 ### References:
 [1] Simpson, G.G. (1944). Tempo and Mode in Evolution. Columbia University Press, New York.  
 
-[2] Ogura, Y. & Sasakura, Y. (2016). Developmental Control of Cell-Cycle Compensation Provides a Switch for Patterned Mitosis at the Onset of Chordate Neurulation. Develop. Cell, 37(2), P148-161. doi:10.1016/j.devcel.2016.03.013  
+[2] Ogura, Y. & Sasakura, Y. (2016). Developmental Control of Cell-Cycle Compensation Provides a Switch for Patterned Mitosis at the Onset of Chordate Neurulation. _Developmental Cell_, 37(2), P148-161. doi:10.1016/j.devcel.2016.03.013  
 
-[3] Bhatla, N. (2011). An Interactive Visualization of the C. elegans Cell Lineage. WormWeb, wormweb.org/celllineage  
+[3] Bhatla, N. (2011). An Interactive Visualization of the C. elegans Cell Lineage. _WormWeb_, wormweb.org/celllineage  
 
-[4] Keller. P.J., Schmidt, A.D., Wittbrodt, J., & Stelzer, E.H.K. (2008). Reconstruction of Zebrafish Early Embryonic Development by Scanned Light Sheet Microscopy. Science, 322(5904), 1065-1069. doi:10.1126/science.1162493.  
+[4] Keller. P.J., Schmidt, A.D., Wittbrodt, J., & Stelzer, E.H.K. (2008). Reconstruction of Zebrafish Early Embryonic Development by Scanned Light Sheet Microscopy. _Science_, 322(5904), 1065-1069. doi:10.1126/science.1162493.  
 
-[5] Alicea, B., Portegys, T.E., & Gordon, R. (2016). Information Isometry Technique Reveals Organizational Features in Developmental Cell Lineages. bioRxiv, doi:10.1101/062539.  
+[5] Alicea, B., Portegys, T.E., & Gordon, R. (2016). Information Isometry Technique Reveals Organizational Features in Developmental Cell Lineages. _bioRxiv_, doi:10.1101/062539.  
 
-[6] Foe, V.E. & Alberts, B.M. (1983). Studies of nuclear and cytoplasmic behaviour during the five mitotic cycles that precede gastrulation in Drosophila embryogenesis. J. Cell Sci, 61, 31-70.  
+[6] Foe, V.E. & Alberts, B.M. (1983). Studies of nuclear and cytoplasmic behaviour during the five mitotic cycles that precede gastrulation in _Drosophila_ embryogenesis. _Journal of Cell Science_, 61, 31-70.  
 
-[7] Boterenbrood, E.C., Narraway, J.M. & Hara, K. (1983) Duration of cleavage cycles and asymmetry in the direction of cleavage waves prior to gastrulation in Xenopus laevis. Roux's Archives Devel. Biol., 192(5), 216-221.  
+[7] Boterenbrood, E.C., Narraway, J.M. & Hara, K. (1983) Duration of cleavage cycles and asymmetry in the direction of cleavage waves prior to gastrulation in Xenopus laevis. _Roux's Archives Developmental Biology_, 192(5), 216-221.  
 
-[8]Boterenbrood, E.C. & Narraway, J.M. (1986). The direction of cleavage waves and the regional variation in the duration of cleavage cycles on the dorsal side of the Xenopus laevis blastula. Roux's Archives of Developmental Biology, 195, 484-488.  
+[8]Boterenbrood, E.C. & Narraway, J.M. (1986). The direction of cleavage waves and the regional variation in the duration of cleavage cycles on the dorsal side of the _Xenopus laevis_ blastula. _Roux's Archives of Developmental Biology_, 195, 484-488.  
 
 [9] Gordon, N.K. & Gordon, R. (2016). Embryogenesis Explained. World Scientific Publishing, Singapore.  
 
-[10] Holtzer, H., Rubinstein, N., Fellini, S., Yeoh, G., Chi, J., Birnbaum, J. & Okayama, M. (1975). Lineages, quantal cell cycles, and the generation of cell diversity. Q. Rev. Biophys. 8(4), 523-557.  
+[10] Holtzer, H., Rubinstein, N., Fellini, S., Yeoh, G., Chi, J., Birnbaum, J. & Okayama, M. (1975). Lineages, quantal cell cycles, and the generation of cell diversity. _Quarterly Reviews in Biophysics_, 8(4), 523-557.  
 
-[11] Holtzer, H., Biehl, J., Antin, P., Tokunaka, S., Sasse, J., Pacifici, M. & Holtzer, S. (1983). Quantal and proliferative cell cycles: how lineages generate cell diversity and maintain fidelity. Prog. Clin. Biol. Res., 134, 213-227.  
+[11] Holtzer, H., Biehl, J., Antin, P., Tokunaka, S., Sasse, J., Pacifici, M. & Holtzer, S. (1983). Quantal and proliferative cell cycles: how lineages generate cell diversity and maintain fidelity. _Progress in Clinical Biological Research_, 134, 213-227.  
+
+[12] Kimmel, C.B., Ballard, W.W., Kimmel, S.R., Ullmann, B., and Schilling, T.F. (1995). Stages of Embryonic Development of the Zebrafish. _Developmental Dynamics_,
+203, 253-310. 
