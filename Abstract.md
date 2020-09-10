@@ -8,16 +8,6 @@ Based on these findings, we predict that periodic changes in the frequency of ne
 Finally, we predict that the emergence and subsequent changes in spatiotemporal periodicity at the cellular level lead to regulatory phase transitions. For example, there is a one-to-one correspondence between cell division and waves of differentiation after the syncytial stage in _Drosophila melanogaster_ [6]. In a similar fashion, amphibians exhibit a decay of synchrony of division [7, 8] that corresponds to differentiation wave activity [9]. Based on data analysis, modeling, and literature review, we anticipate that further investigation could uncover whether, in regulating embryos, mitosis and cell differentiation are correlated. If so, a revival of the quantal mitosis hypothesis of Holtzer [10, 11], in some form, may be warranted.  
 
 <p align="center">
-  <img width="750" height="350" src="https://user-images.githubusercontent.com/38323286/52240654-0d4f8a00-2897-11e9-8cd1-b25780787a5e.png"><BR>
-  Developmental cell births in the nematode <i>C. elegans</i>. Developmental cells (orange), terminally differentiated cells (blue). Click to enlarge.
-</p>
-
-<p align="center">
-  <img width="750" height="350" src="https://user-images.githubusercontent.com/38323286/52240545-b9dd3c00-2896-11e9-9c08-7bf4cca69fd4.png"><BR>
-Cell births in Zebrafish embryos during early embryogenesis. Zygote stage (red), Cleavage stage (unshaded). Click to enlarge.
-</p>
-
-<p align="center">
   <img width="350" height="350" src="https://user-images.githubusercontent.com/38323286/52240366-40454e00-2896-11e9-83e3-738f183aedd6.png"><BR>
 Example of an isometric graph with two subgraphs (red and yellow). Click to enlarge.
 </p>
@@ -25,15 +15,22 @@ Example of an isometric graph with two subgraphs (red and yellow). Click to enla
 
 ### *Caenorhabditis elegans*
 <p align="center">
+  <img width="750" height="350" src="https://user-images.githubusercontent.com/38323286/52240654-0d4f8a00-2897-11e9-8cd1-b25780787a5e.png"><BR>
+  Developmental cell births in the nematode <i>C. elegans</i>. Developmental cells (orange), terminally differentiated cells (blue). Click to enlarge.
+</p>
+<p align="center">
   <img width="565" height="348" src="https://github.com/Orthogonal-Research-Lab/Periodicity-in-the-Embryo/blob/master/Graphs/C%20elegans-differentiation-intervals/C-elegans-interval-btwn-differentiations.png"><BR>
 Interval between cell differentiations across both embryonic and post-embryonic development in _C. elegans_. Click to enlarge.
 </p>
 
 ### Zebrafish
-
+<p align="center">
+  <img width="750" height="350" src="https://user-images.githubusercontent.com/38323286/52240545-b9dd3c00-2896-11e9-9c08-7bf4cca69fd4.png"><BR>
+Cell births in Zebrafish embryos during early embryogenesis. Zygote stage (red), Cleavage stage (unshaded). Click to enlarge.
+</p>
 <p align="center">
   <img width="565" height="348" src="https://github.com/Orthogonal-Research-Lab/Periodicity-in-the-Embryo/blob/master/Graphs/Zebrafish-first-206-minutes/206-minutes-divisions.png"><BR>
-Cell divisions over first 206 minutes of Zebrafish embryogenesis. Click to enlarge.
+Closer inspection of cell divisions over first 206 minutes of Zebrafish embryogenesis. Click to enlarge.
 </p>
 
 <p align="center">
