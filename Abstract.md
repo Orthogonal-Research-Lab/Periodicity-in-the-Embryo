@@ -66,3 +66,8 @@ Considering the cell divisions for the first period of Zebrafish embryogenesis, 
 
 [12] Kimmel, C.B., Ballard, W.W., Kimmel, S.R., Ullmann, B., and Schilling, T.F. (1995). Stages of Embryonic Development of the Zebrafish. _Developmental Dynamics_,
 203, 253-310. 
+
+Other references:
+Halley-Stott, R.P., Jullien, J., Pasque, V., and Gurdon, J. (2014). Mitosis Gives a Brief Window of Opportunity for a Change in Gene Transcription. PLoS Biology, 12(7), e1001914. https://doi.org/10.1371/journal.pbio.1001914
+
+Perez-Carrasco, R., Beentjes, C. and Grima, R. (2020). Effects of cell cycle variability on lineage and population measurements of messenger RNA abundance. _Journal of the Royal Society Interface_, 1720200360.
