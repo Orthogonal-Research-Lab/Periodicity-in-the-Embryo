@@ -1,6 +1,9 @@
 ## Periodicity in the embryo: emergence of order in space, diffusion of order in time.  
 ### DevoWorm Group (contributors TBA)
 
+### Abstract  
+
+### Introduction  
 While the case for the effects of "tempo and mode" [1] have been made for the evolutionary process, a similar relationship between phenotypic change, time, and space may also exist in development. One obvious answer to this question is to examine the expression and sequence variation of genes associated with cell cycle and developmental patterning [2]. However, there is a potentially more compelling top-down explanation. We will use two model organisms to demonstrate how periodicity becomes less synchronized over developmental time and space. In the case of the nematode Caenorhabditis elegans, a comparison of embryogenetic and postembryonic cells (developmental and terminally-differentiated cell birth times acquired from [3]) reveals two general patterns. For the Zebrafish (_Danio rerio_), comparisons within and between embryogenetic stages based on measurements of cell nuclei in the animal hemisphere [4] reveal patterns at multiple scales.  
 
 Based on these findings, we predict that periodic changes in the frequency of new cells over developmental time represents cell proliferation without functional distinction. Aperiodic changes in cell birth frequency will represent a diversity of specialized sublineages and functionally-specific cell births. To determine whether aperiodicity represents meaningful information or noise, we can use the information isometry technique [5] to visualize the effects of increasing temporal and sublineage variation. This set of analyses will hopefully provide potential macro-level explanations for the coordination of cell division in addition to uncovering potential precursor events and mechanisms related to differentiation.  
@@ -13,7 +16,7 @@ Example of an isometric graph with two subgraphs (red and yellow). Click to enla
 </p>
 
 
-### *Caenorhabditis elegans*
+### *Caenorhabditis elegans*  
 <p align="center">
   <img width="750" height="350" src="https://user-images.githubusercontent.com/38323286/52240654-0d4f8a00-2897-11e9-8cd1-b25780787a5e.png"><BR>
   Developmental cell births in the nematode <i>C. elegans</i>. Developmental cells (orange), terminally differentiated cells (blue). Click to enlarge.
@@ -40,8 +43,10 @@ Interval size of peaks for first 206 minutes of Zebrafish embryogenesis (roughly
   
 Considering the cell divisions for the first period of Zebrafish embryogenesis, we conduct an interval analysis for each oscillation of the data. For time points corresponding to the zygote and cleavage stages of embryogenesis [12], this yields three interval groups: the greatest number of oscillations occurs at a period of 2-5 minutes, while a smaller number of oscillations occur with periods from 16-19. There is also a longer 22 minute interval between oscillations.
 
+### Discussion  
+In this paper, we examine the periodicity of cell proliferation and division examined using three model systems: Zebrafish (_Danio rerio_), Nematode (_Caenorhabditis elegans_), and a simulated embryo. While tempo and mode is generally an evolutionary phenomenon, these concepts also yield a model of developmental regulation that is explicitly temporal. Our results also suggest that developmental regulation is not simply a molecular mechanism.
 
-### References:
+### References
 [1] Simpson, G.G. (1944). Tempo and Mode in Evolution. Columbia University Press, New York.  
 
 [2] Ogura, Y. & Sasakura, Y. (2016). Developmental Control of Cell-Cycle Compensation Provides a Switch for Patterned Mitosis at the Onset of Chordate Neurulation. _Developmental Cell_, 37(2), P148-161. doi:10.1016/j.devcel.2016.03.013  
