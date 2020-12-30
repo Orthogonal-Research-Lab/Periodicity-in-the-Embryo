@@ -1,0 +1,30 @@
+Producing plots and analysis:
+
+Power Spectra for Zebrafish andd C. elegans
+
+a = [series];
+b = fft(a);
+c = abs(b);
+plot(c)
+
+Simulating amplitude:
+
+r = rand(50,1,"binomial"); // "binomial", "poisson", "exponential", or "uniform"
+s = min(r);
+r = r + abs(s);
+plot(r)
+
+Simulating sequence of divisions in time as a cumulative function:
+
+m = sample size; // number of timepoints generated
+n = number of series; // represents individual embryos generated
+lambda = value for lambda; //default = 0.1; generated distributions for 0.1, 0.5, and 1.0.
+U = linspace(1,60,60); // generating stepwise division sequence
+U = cumsum(X);
+X = grand(m,n,"uin",1,m);
+X = cumsum(X)
+Y = grand(m,n,"poi",0.5); 
+Y = cumsum(Y);
+Z = grand (m,n,"bin",1,0.5);
+Z = cumsum(Z);
+plot(U,X,Y,Z)
